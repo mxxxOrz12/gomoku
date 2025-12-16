@@ -68,6 +68,7 @@ AI 的核心目标是模拟人类思考，通过计算寻找最优落子点。
 在终端中执行以下命令生成可执行文件：
 
 ```bash
+mkdir build
 cd build
 cmake ..
 make -j4
