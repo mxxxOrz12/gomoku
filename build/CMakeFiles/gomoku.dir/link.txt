@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/gomoku.dir/main.cpp.o CMakeFiles/gomoku.dir/gomoku.cpp.o -o bin/gomoku  -lpthread 
