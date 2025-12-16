@@ -1,0 +1,7 @@
+/home/ma/aircas/gomoku/build/CMakeFiles/gomoku.dir
+/home/ma/aircas/gomoku/build/CMakeFiles/edit_cache.dir
+/home/ma/aircas/gomoku/build/CMakeFiles/rebuild_cache.dir
+/home/ma/aircas/gomoku/build/CMakeFiles/list_install_components.dir
+/home/ma/aircas/gomoku/build/CMakeFiles/install.dir
+/home/ma/aircas/gomoku/build/CMakeFiles/install/local.dir
+/home/ma/aircas/gomoku/build/CMakeFiles/install/strip.dir
